@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FEECFB&fontColor=d83a7c&height=300&section=header&text=안녕하세요!%20펌웨어%20직무로%20새롭게%20도전하는%20개발자%20강인주입니다.&fontSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FEECFB&fontColor=d83a7c&height=300&section=header&text=안녕하세요!%20임베디드SW%20직무로%20새롭게%20도전하는%20개발자%20강인주입니다.&fontSize=25" />
 
 <div align="center">
   <h3>🐥 Embeded Tech Stack</h3>
